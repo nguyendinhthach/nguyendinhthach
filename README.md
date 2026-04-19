@@ -1,16 +1,23 @@
-## Hi there 👋
+Hey there 👋
+I'm Nguyen Dinh Thach, a junior Computer Science student at the University of Da Lat (DLU).
+I've been learning Unity and C# for the past 8 months and I'm building small game projects to level up.
+This profile is where I'll be uploading my learning projects and experiments as I go.
 
-<!--
-**nguyendinhthach/nguyendinhthach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently Working On
 
-Here are some ideas to get you started:
+Kitchen Chaos — following along with CodeMonkey's Unity tutorial on YouTube to sharpen my fundamentals
+The Sprouty — a 2D pixel-art farming game inspired by Stardew Valley and Sprout Valley
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Tools & Tech
+
+Unity
+C#
+Git & GitHub
+
+
+A Bit About Me
+
+🌱 Still a newbie, learning something new every day
+🎮 Love games — mostly AAA PC titles, with a soft spot for indies
+🛠️ I like building things from scratch to actually understand how they work
