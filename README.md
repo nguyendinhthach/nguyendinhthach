@@ -1,3 +1,5 @@
+# Hey there 👋
+
 I'm Nguyen Dinh Thach, a junior Software Engineering student at the University of Da Lat (DLU).
 
 I've been learning Unity and C# for the past 8 months and I'm building small game projects to level up.
